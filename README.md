@@ -8,10 +8,10 @@ This project is created as part of the **30 Days Java Internship Program at KTR 
 ## 🏢 Internship Details
 
 - **Organization:** KTR Softech  
-- **Internship Program:** 30 Days Java Internship  
+- **Internship Program:** 60 Days Java Internship  
 - **Technology:** Core Java  
 - **Project Type:** Collections Based Console Application  
-- **Submission Format:** .zip  
+  
 
 ---
 
