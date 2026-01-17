@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="351dbb19-c679-4eb8-b04d-9d72b6b38b4c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ (2).gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ (3).gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/@Java 2.0.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc (2).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc (3).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules (2).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules (3).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace (2).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace (3).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/@Complete_Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Addito.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Array_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Array_matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Arrays/Array_Class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/BankService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Bankes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Break.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Continiue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Customers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Division.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Else_If_Statement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Encapsulation_Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Fibbonacci_Series.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/First.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/For_loop_Statement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Half_Puramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/JavaFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Logical_Operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Method.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Multiplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Nested_If_Else.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/OOps_Concept/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/OOps_Concept/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/OOps_Concept/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/OOps_Concept/Constructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/OOps_Concept/Copy_Cons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/OOps_Concept/Default_Const.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/OOps_Concept/F.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/OOps_Concept/G.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/OOps_Concept/J.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/OOps_Concept/K.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/OOps_Concept/Parametrized_Cons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/OOps_Concept/Super.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/OOps_Concept/Z.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/OOps_Concept/l.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/Abstract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/Ankit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/BankService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/Bankes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/Cow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/H.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/Hierachical.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/Multiple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/OOps_Concept/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/OOps_Concept/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/OOps_Concept/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/OOps_Concept/Compile_Polimorphism.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/OOps_Concept/Exception.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/OOps_Concept/FileReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/OOps_Concept/File_Handling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/OOps_Concept/File_Writer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/OOps_Concept/J.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/OOps_Concept/Method_Overriding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/OOps_Concept/Multi_level_Inheritance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/OOps_Concept/Package.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/OOps_Concept/Q.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/OOps_Concept/javacollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/OOps_Concept/shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/OOps_Concept/square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/Z.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Oops/animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Prime_Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Realtional_Operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Second.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Simple_Assienment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Sorted_Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/StudentManagementSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Subtraction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Switch_Statement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Ternary_Opernator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/TwoD_Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/While_loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/do_while_loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/if_else_Statement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/if_statement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/@Complete_Java/incre_Decre.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "gitKeshav11"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/gitKeshav11/Student_Management_System-KTR_Softech-.git",
+    "accountId": "e3c61c3b-a27e-42b9-a149-161bc479f326"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="38OG3eQR9sSbqQHsImprAVFd66x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Merging main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="351dbb19-c679-4eb8-b04d-9d72b6b38b4c" name="Changes" comment="" />
+      <created>1768663007637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768663007637</updated>
+    </task>
+    <servers />
+  </component>
+</project>
